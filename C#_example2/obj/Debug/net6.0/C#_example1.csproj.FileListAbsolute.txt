@@ -1,0 +1,15 @@
+/Users/che/Documents/geekbrains/homework/C#_example1/obj/Debug/net6.0/C#_example1.csproj.AssemblyReference.cache
+/Users/che/Documents/geekbrains/homework/C#_example1/obj/Debug/net6.0/C#_example1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/che/Documents/geekbrains/homework/C#_example1/obj/Debug/net6.0/C#_example1.AssemblyInfoInputs.cache
+/Users/che/Documents/geekbrains/homework/C#_example1/obj/Debug/net6.0/C#_example1.AssemblyInfo.cs
+/Users/che/Documents/geekbrains/homework/C#_example1/obj/Debug/net6.0/C#_example1.csproj.CoreCompileInputs.cache
+/Users/che/Documents/geekbrains/homework/C#_example1/bin/Debug/net6.0/C#_example1
+/Users/che/Documents/geekbrains/homework/C#_example1/bin/Debug/net6.0/C#_example1.deps.json
+/Users/che/Documents/geekbrains/homework/C#_example1/bin/Debug/net6.0/C#_example1.runtimeconfig.json
+/Users/che/Documents/geekbrains/homework/C#_example1/bin/Debug/net6.0/C#_example1.dll
+/Users/che/Documents/geekbrains/homework/C#_example1/bin/Debug/net6.0/C#_example1.pdb
+/Users/che/Documents/geekbrains/homework/C#_example1/obj/Debug/net6.0/C#_example1.dll
+/Users/che/Documents/geekbrains/homework/C#_example1/obj/Debug/net6.0/refint/C#_example1.dll
+/Users/che/Documents/geekbrains/homework/C#_example1/obj/Debug/net6.0/C#_example1.pdb
+/Users/che/Documents/geekbrains/homework/C#_example1/obj/Debug/net6.0/C#_example1.genruntimeconfig.cache
+/Users/che/Documents/geekbrains/homework/C#_example1/obj/Debug/net6.0/ref/C#_example1.dll
