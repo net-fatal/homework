@@ -1,0 +1,15 @@
+/Users/che/Documents/geekbrains/homework/C#_example6/obj/Debug/net6.0/C#_example6.csproj.AssemblyReference.cache
+/Users/che/Documents/geekbrains/homework/C#_example6/obj/Debug/net6.0/C#_example6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/che/Documents/geekbrains/homework/C#_example6/obj/Debug/net6.0/C#_example6.AssemblyInfoInputs.cache
+/Users/che/Documents/geekbrains/homework/C#_example6/obj/Debug/net6.0/C#_example6.AssemblyInfo.cs
+/Users/che/Documents/geekbrains/homework/C#_example6/obj/Debug/net6.0/C#_example6.csproj.CoreCompileInputs.cache
+/Users/che/Documents/geekbrains/homework/C#_example6/bin/Debug/net6.0/C#_example6
+/Users/che/Documents/geekbrains/homework/C#_example6/bin/Debug/net6.0/C#_example6.deps.json
+/Users/che/Documents/geekbrains/homework/C#_example6/bin/Debug/net6.0/C#_example6.runtimeconfig.json
+/Users/che/Documents/geekbrains/homework/C#_example6/bin/Debug/net6.0/C#_example6.dll
+/Users/che/Documents/geekbrains/homework/C#_example6/bin/Debug/net6.0/C#_example6.pdb
+/Users/che/Documents/geekbrains/homework/C#_example6/obj/Debug/net6.0/C#_example6.dll
+/Users/che/Documents/geekbrains/homework/C#_example6/obj/Debug/net6.0/refint/C#_example6.dll
+/Users/che/Documents/geekbrains/homework/C#_example6/obj/Debug/net6.0/C#_example6.pdb
+/Users/che/Documents/geekbrains/homework/C#_example6/obj/Debug/net6.0/C#_example6.genruntimeconfig.cache
+/Users/che/Documents/geekbrains/homework/C#_example6/obj/Debug/net6.0/ref/C#_example6.dll
