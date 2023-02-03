@@ -1,0 +1,15 @@
+/Users/che/Documents/geekbrains/homework/C#_example8/obj/Debug/net6.0/C#_example8.csproj.AssemblyReference.cache
+/Users/che/Documents/geekbrains/homework/C#_example8/obj/Debug/net6.0/C#_example8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/che/Documents/geekbrains/homework/C#_example8/obj/Debug/net6.0/C#_example8.AssemblyInfoInputs.cache
+/Users/che/Documents/geekbrains/homework/C#_example8/obj/Debug/net6.0/C#_example8.AssemblyInfo.cs
+/Users/che/Documents/geekbrains/homework/C#_example8/obj/Debug/net6.0/C#_example8.csproj.CoreCompileInputs.cache
+/Users/che/Documents/geekbrains/homework/C#_example8/bin/Debug/net6.0/C#_example8
+/Users/che/Documents/geekbrains/homework/C#_example8/bin/Debug/net6.0/C#_example8.deps.json
+/Users/che/Documents/geekbrains/homework/C#_example8/bin/Debug/net6.0/C#_example8.runtimeconfig.json
+/Users/che/Documents/geekbrains/homework/C#_example8/bin/Debug/net6.0/C#_example8.dll
+/Users/che/Documents/geekbrains/homework/C#_example8/bin/Debug/net6.0/C#_example8.pdb
+/Users/che/Documents/geekbrains/homework/C#_example8/obj/Debug/net6.0/C#_example8.dll
+/Users/che/Documents/geekbrains/homework/C#_example8/obj/Debug/net6.0/refint/C#_example8.dll
+/Users/che/Documents/geekbrains/homework/C#_example8/obj/Debug/net6.0/C#_example8.pdb
+/Users/che/Documents/geekbrains/homework/C#_example8/obj/Debug/net6.0/C#_example8.genruntimeconfig.cache
+/Users/che/Documents/geekbrains/homework/C#_example8/obj/Debug/net6.0/ref/C#_example8.dll
