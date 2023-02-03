@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/che/Documents/geekbrains/homework/C#_example1/C#_example1.csproj": {}
+    "/Users/che/Documents/geekbrains/homework/C#_example4/C#_example4.csproj": {}
   },
   "projects": {
-    "/Users/che/Documents/geekbrains/homework/C#_example1/C#_example1.csproj": {
+    "/Users/che/Documents/geekbrains/homework/C#_example4/C#_example4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/che/Documents/geekbrains/homework/C#_example1/C#_example1.csproj",
-        "projectName": "C#_example1",
-        "projectPath": "/Users/che/Documents/geekbrains/homework/C#_example1/C#_example1.csproj",
+        "projectUniqueName": "/Users/che/Documents/geekbrains/homework/C#_example4/C#_example4.csproj",
+        "projectName": "C#_example4",
+        "projectPath": "/Users/che/Documents/geekbrains/homework/C#_example4/C#_example4.csproj",
         "packagesPath": "/Users/che/.nuget/packages/",
-        "outputPath": "/Users/che/Documents/geekbrains/homework/C#_example1/obj/",
+        "outputPath": "/Users/che/Documents/geekbrains/homework/C#_example4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/che/.nuget/NuGet/NuGet.Config"
